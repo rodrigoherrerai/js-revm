@@ -65,6 +65,9 @@ main();
 
 ``````
 
+### Tx Simulation
+TODO not supported yed
+
 ## API
 **For now, JS-REVM comes with 4 public functions**
 
