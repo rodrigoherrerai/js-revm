@@ -4,7 +4,7 @@ pub fn to_spec_id(spec_id: &str) -> SpecId {
     match spec_id {
         "FRONTIER" => SpecId::FRONTIER,
         "FRONTIER_THAWING" => SpecId::FRONTIER_THAWING,
-        "HOMESTAD" => SpecId::HOMESTEAD,
+        "HOMESTEAD" => SpecId::HOMESTEAD,
         "DAO_FORK" => SpecId::DAO_FORK,
         "TANGERINE" => SpecId::TANGERINE,
         "SPURIOUS_DRAGON" => SpecId::SPURIOUS_DRAGON,
