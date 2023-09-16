@@ -1,0 +1,26 @@
+{
+  "name": "js-revm",
+  "version": "0.1.4",
+  "description": "JS wrapper and bindings for the EVM implemented in Rust",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Rodrigo Herrera I.",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.1.2"
+  },
+  "devDependencies": {
+    "cargo-cp-artifact": "^0.1",
+    "ethers": "^6.7.1",
+    "mocha": "^10.2.0",
+    "solc": "^0.8.21"
+  },
+  "keywords": [
+    "Rust",
+    "REVM",
+    "EVM",
+    "Ethereum"
+  ]
+}
